@@ -1,0 +1,11 @@
+C:\Users\Andrei\Desktop\net5.week07.course-master\Week07\LinqAndLamdaExpressions\bin\Debug\Files\posts.json
+C:\Users\Andrei\Desktop\net5.week07.course-master\Week07\LinqAndLamdaExpressions\bin\Debug\Files\users.json
+C:\Users\Andrei\Desktop\net5.week07.course-master\Week07\LinqAndLamdaExpressions\bin\Debug\LinqAndLamdaExpressions.exe.config
+C:\Users\Andrei\Desktop\net5.week07.course-master\Week07\LinqAndLamdaExpressions\bin\Debug\LinqAndLamdaExpressions.exe
+C:\Users\Andrei\Desktop\net5.week07.course-master\Week07\LinqAndLamdaExpressions\bin\Debug\LinqAndLamdaExpressions.pdb
+C:\Users\Andrei\Desktop\net5.week07.course-master\Week07\LinqAndLamdaExpressions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrei\Desktop\net5.week07.course-master\Week07\LinqAndLamdaExpressions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrei\Desktop\net5.week07.course-master\Week07\LinqAndLamdaExpressions\obj\Debug\LinqAndLamdaExpressions.csprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\net5.week07.course-master\Week07\LinqAndLamdaExpressions\obj\Debug\LinqAndLamdaExpressions.csproj.CopyComplete
+C:\Users\Andrei\Desktop\net5.week07.course-master\Week07\LinqAndLamdaExpressions\obj\Debug\LinqAndLamdaExpressions.exe
+C:\Users\Andrei\Desktop\net5.week07.course-master\Week07\LinqAndLamdaExpressions\obj\Debug\LinqAndLamdaExpressions.pdb
